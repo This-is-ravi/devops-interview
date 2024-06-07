@@ -110,3 +110,4 @@
  3. Can you outline the key components of the CI/CD pipeline you would design for this project, including the tools you would use and the specific stages in the pipeline?
 
  4. How do we enforce policy to automatically include a group as a PR ( Pull Request ) approver?
+ 5. testing
